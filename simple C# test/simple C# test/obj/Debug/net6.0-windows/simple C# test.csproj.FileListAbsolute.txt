@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\simple C# test\simple C# test\bin\Debug\net6.0-windows\simple C# test.exe
+C:\Users\HP\Desktop\simple C# test\simple C# test\bin\Debug\net6.0-windows\simple C# test.deps.json
+C:\Users\HP\Desktop\simple C# test\simple C# test\bin\Debug\net6.0-windows\simple C# test.runtimeconfig.json
+C:\Users\HP\Desktop\simple C# test\simple C# test\bin\Debug\net6.0-windows\simple C# test.dll
+C:\Users\HP\Desktop\simple C# test\simple C# test\bin\Debug\net6.0-windows\simple C# test.pdb
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\test_informatika_9v_22.Form1.resources
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\test_informatika_9v_22.Properties.Resources.resources
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\simple C# test.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\simple C# test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\simple C# test.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\simple C# test.AssemblyInfo.cs
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\simple C# test.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\simple C# test.dll
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\refint\simple C# test.dll
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\simple C# test.pdb
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\simple C# test.genruntimeconfig.cache
+C:\Users\HP\Desktop\simple C# test\simple C# test\obj\Debug\net6.0-windows\ref\simple C# test.dll
