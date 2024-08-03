@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\egn\egn\bin\Debug\net6.0-windows\egn.exe
+C:\Users\HP\Desktop\egn\egn\bin\Debug\net6.0-windows\egn.deps.json
+C:\Users\HP\Desktop\egn\egn\bin\Debug\net6.0-windows\egn.runtimeconfig.json
+C:\Users\HP\Desktop\egn\egn\bin\Debug\net6.0-windows\egn.dll
+C:\Users\HP\Desktop\egn\egn\bin\Debug\net6.0-windows\egn.pdb
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.Form1.resources
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.AssemblyInfo.cs
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.dll
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\refint\egn.dll
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.pdb
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\egn.genruntimeconfig.cache
+C:\Users\HP\Desktop\egn\egn\obj\Debug\net6.0-windows\ref\egn.dll
